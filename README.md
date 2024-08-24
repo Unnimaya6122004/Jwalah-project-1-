@@ -50,8 +50,9 @@ We welcome community contributions! If you have any suggestions, resources, or v
 For inquiries or assistance, reach out to us at:
 - **📧 Email:** support@jwalah.com
 - **📞 Phone:** +91-1234-567890
-
+- ** Link ** : [Click Here](https://sites.google.com/view/firesafetymanagement?usp=sharing)
 ---
 
 Thank you for using **Jwalah**. Your safety is our priority! 🔥👩‍🚒
 
+---
