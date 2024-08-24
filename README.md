@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20Welcome%20to%20my%20project.."> 
 
 # Jwalah: Fire Management Website
-<img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b95263zj5oa505mwwji5e6lzazjgtkyqmin0dwe54weu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="cod" style="width:100%;">
+<img src="https://media4.giphy.com/media/ynSpLoEGuwKEJFlydz/giphy.gif?cid=6c09b952dyhw3yz28862tyrpk2va40q02sztzdhp6ysajlvr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="cod" style="width:100%;">
 Welcome to **Jwalah**, your one-stop solution for comprehensive fire safety and management. This platform is dedicated to raising awareness, providing emergency contact details, offering first aid tips, and more to ensure you are prepared in case of a fire emergency.
 
 ## Features
